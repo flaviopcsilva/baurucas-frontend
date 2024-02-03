@@ -1,0 +1,38 @@
+html,
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    margin: 0;
+
+}
+
+.__container {
+    background-color: aquamarine;
+    width: 100%;
+    height: 100%;
+}
+
+.home__container {
+
+    text-align: center;
+
+}
+
+.__logo {
+    margin-top: 10px;
+    width: 20%;
+    height: 20%;
+}
+
+.__construcao {
+    margin-top: 10px;
+    text-align: center;
+
+}
+
+.__construcao img {
+    width: 40%;
+    height: 40%;
+}
